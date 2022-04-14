@@ -1,0 +1,8 @@
+name: Changelog
+version: ${project.version}
+main: de.ruben.changelog.ChangeLogPlugin
+api-version: 1.17
+authors: [ Ruben ]
+description: ChangeLog Plugin for the AddictZone Minecraft Network
+commands:
+  changelog:
